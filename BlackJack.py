@@ -1,10 +1,3 @@
-#Charlie Knapp
-#COMP112
-#Final Project: Blackjack
-'''Three goals:
-If statements - Determines how hands are played with inputs
-Accumulator - Keeps track of the player’s balance
-Lists - To hold all of the cards and pull from it when needed'''
 balance=100
 cards=[2,2,2,2,3,3,3,3,4,4,4,4,5,5,5,5,6,6,6,6,7,7,7,7,8,8,8,8,9,9,9,9,10,10,10,10,'Jack','Jack','Jack','Jack','Queen','Queen','Queen','Queen','King','King','King','King','Ace','Ace','Ace','Ace']
 import random
